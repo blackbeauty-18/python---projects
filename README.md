@@ -2,7 +2,7 @@
 This repository containss projects I have biult while learning Python and Software development
 
 # Projects
--
+- Basic calculator
 -
 -
 -
