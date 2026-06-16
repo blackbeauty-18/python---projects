@@ -1,2 +1,30 @@
 # python---projects
-This a documentation of all the projects I have worked on during my learning python journey.
+This repository containss projects I have biult while learning Python and Software development
+
+# Projects
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+## Goals
+
+- Improve Python skills
+- Build a strong portfolio
+- Learn AI engineering
