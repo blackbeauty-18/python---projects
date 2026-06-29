@@ -3,7 +3,7 @@ This repository containss projects I have biult while learning Python and Softwa
 
 # Projects
 - Basic calculator
--
+- Silent aution
 -
 -
 -
