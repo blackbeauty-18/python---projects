@@ -5,7 +5,7 @@ This repository containss projects I have biult while learning Python and Softwa
 - Basic calculator
 - Silent aution
 - Black Jack Game
--
+- Number Guessing Game
 -
 -
 -
