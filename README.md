@@ -6,7 +6,7 @@ This repository containss projects I have biult while learning Python and Softwa
 - Silent aution
 - Black Jack Game
 - Number Guessing Game
--
+- Higher or lower Guessing Game
 -
 -
 -
