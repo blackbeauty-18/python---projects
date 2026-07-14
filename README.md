@@ -7,7 +7,7 @@ This repository containss projects I have biult while learning Python and Softwa
 - Black Jack Game
 - Number Guessing Game
 - Higher or lower Guessing Game
-- Cofee_maker
+- Coffee_maker
 -
 -
 -
